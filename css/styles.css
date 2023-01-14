@@ -25,7 +25,7 @@ body {
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1;
+    line-height: 1.3;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--navy-blue);
@@ -46,7 +46,7 @@ body {
 .nav-link {
     font-weight: 500;
     font-size: 16px;
-    line-height: 1;
+    line-height: 1.5;
     color: var(--navy-blue);
     letter-spacing: 0.02em;
 }
@@ -57,7 +57,7 @@ body {
 .contact-link {
     font-style: normal;
     font-size: 16px;
-    line-height: 1;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--slate);
 }
@@ -71,7 +71,7 @@ body {
 }
 .footer-paragraf {
     font-size: 16px;
-    line-height: 1;
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
@@ -85,17 +85,17 @@ body {
     color: white;
     font-weight: 700;
     font-size: 56px;
-    line-height: 0.4;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
 }
 .order-btn {
     background-color: var(--iris);
     color: white;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1;
+    line-height: 1.5;
     letter-spacing: 0.04em;
 }
     .order-btn:hover {
@@ -106,20 +106,20 @@ body {
 .advantages-title {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1;
+    line-height: 1.2;
     color: var(--navy-blue);
     letter-spacing: 0.02em;
 }
 .advantages-description {
     font-size: 16px;
-    line-height: 1;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--slate);
 }
 .section-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 0.6;
+    line-height: 1.1;
     text-align: center;
     text-transform: capitalize;
     letter-spacing: 0.02em;
@@ -136,13 +136,13 @@ body {
 .work-name {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--navy-blue);
 }
 .content-description {
     font-size: 16px;
-    line-height: 1;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--slate);
 }
@@ -154,10 +154,10 @@ body {
 .button {
     background-color: var(--cloud);
     color: var(--iris);
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1;
+    line-height: 1.5;
     text-align: center;
     letter-spacing: 0.04em;
 }
